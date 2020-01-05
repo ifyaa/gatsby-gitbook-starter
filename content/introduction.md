@@ -1,13 +1,13 @@
 ---
-title: "뭔데요"
-metaTitle: "미치겠네요"
+title: "커무니티 "
+metaTitle: "이프야!!입니다"
 metaDescription: "This is the meta description"
 ---
 
 무엇을 말하려는에 어떻게 이루어있는지를 파악하는데 시간이 너무 걸리니...어떡하나
 어쨋건 이페이지는 content/introduction.md페이지..그러니까 메타페이지를 사용하는데.
 
-# Heading H1
+# Head H1
 여긴 
 
 ## Heading H2

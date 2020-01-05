@@ -1,13 +1,14 @@
 ---
-title: "Syntax Highlighting"
+title: "wang hong"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+제목에 한글이 나오면 에러가 걸린다... 이미지는 어떻게 넣은 건지..
 
 ```javascript
-import React from 'react';
+지랄이네,,,무슨페이지가 이렇게 만들어지나. ;
+<img src=">
 ```
 
 Supports multiple languages.

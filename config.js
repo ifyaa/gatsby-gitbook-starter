@@ -7,8 +7,8 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"title": "ifyaa What's wang hong",
+		"githubUrl": "https://awesome-leavitt-110d82.netlify.com/",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -31,7 +31,7 @@ const config = {
       		"/codeblock"
     	],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "ifyaaBlog", "link": "https://awesome-leavitt-110d82.netlify.com/"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,

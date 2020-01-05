@@ -77,9 +77,9 @@ const Header = ({location}) => (
         <div className={'navBarWrapper'}>
           <nav className={'navBarDefault'}>
             <div className={'navBarHeader'}>
-              <Link to={finalLogoLink} className={'navBarBrand'}>
+             -- <Link to={finalLogoLink} className={'navBarBrand'}>
                 <img className={'img-responsive displayInline'} src={(logo.image !== '') ? logo.image : logoImg} alt={'logo'} />
-              </Link>
+              </Link>-->>>>>
               <div className={"headerTitle displayInline"} dangerouslySetInnerHTML={{__html: headerTitle}} />
               <span onClick={myFunction} className={'navBarToggle'}>
                 <span className={'iconBar'}></span>
@@ -127,7 +127,7 @@ const Header = ({location}) => (
                 }
                 {githubUrl !== '' ?
                   (<li className={'githubBtn'}>
-                    <GitHubButton href={githubUrl} data-show-count="true" aria-label="Star on GitHub">Star</GitHubButton>
+                    <GitHubButton href={githubUrl} data-show-count="true" aria-label="Star on GitHub">ifyaa</GitHubButton>
                   </li>) : null}
               </ul>
             </div>
